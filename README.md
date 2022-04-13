@@ -16,8 +16,8 @@
 </p>
 
 <div align="center">
+    <img src="https://media.discordapp.net/attachments/857822189390135296/963847860410011648/Peek_13-04-2022_14-06.gif?width=705&height=297"/>
     <h3>christianwagner.tech</h3>
-    <img src="https://media.discordapp.net/attachments/857822189390135296/963847860410011648/Peek_13-04-2022_14-06.gif?width=705&height=297" align="center"/>
 </div>
 ---
 
