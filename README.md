@@ -5,7 +5,7 @@
 </h3>
 
 
-<p align="center">🏗️ Portifolio Pessoal 🛹 Projeto em Construç 🏗️</p> 
+<p align="center">🏗️ Portifolio Pessoal 🛹 Projeto em Construçao 🏗️</p> 
 
 <p align="center">
   <a href="#sobre">Sobre</a> ·
@@ -15,15 +15,17 @@
   <a href="#autor">Autor</a>
 </p>
 
-<img src="https://media.discordapp.net/attachments/857822189390135296/963847860410011648/Peek_13-04-2022_14-06.gif?width=705&height=297" align="center"/>
-
+<div align="center">
+    <h3>christianwagner.tech</h3>
+    <img src="https://media.discordapp.net/attachments/857822189390135296/963847860410011648/Peek_13-04-2022_14-06.gif?width=705&height=297" align="center"/>
+</div>
 ---
 
 <div id="sobre"></div>
 
 <h2> 🪂 Sobre o projeto 🪂 </h2>
 
-Esse projeto foi criado na intenção de apresentar melhor o meu trabalho por meio de um portifolio pessoal. Acesse-o agora mesmo [cliquando aqui](https://christianwagner.tech).
+Esse projeto foi criado na intenção de apresentar melhor o meu trabalho por meio de um portifolio pessoal. Acesse-o agora mesmo [cliquando aqui](https://christianwagner.tech). (christianwagner.tech)
 
 
 
