@@ -1,4 +1,4 @@
-<h1 align="center">Portifolio Pessoal</h1>
+<h1 align="center">💻 Portifolio Pessoal 💻</h1>
 
 <h3 align="center">
     👾 Sempre ouvi dizer que o portifólio é algo muito importante para um dev, então, aqui esta o projeto. 👾 </br></br></br>
