@@ -23,7 +23,7 @@
 
 <h2> 🪂 Sobre o projeto 🪂 </h2>
 
-Esse projeto foi criado na intenção de apresentar melhor o meu trabalho por meio de um portifolio pessoal. Acesse-o agora mesmo [cliquando aqui]!(https://christianwagner.tech).
+Esse projeto foi criado na intenção de apresentar melhor o meu trabalho por meio de um portifolio pessoal. Acesse-o agora mesmo [cliquando aqui](https://christianwagner.tech).
 
 
 
