@@ -23,9 +23,9 @@
 
 <h2> 🪂 Sobre o projeto 🪂 </h2>
 
-Esse projeto foi criado como forma de aprendizado. Projeto cujo foi sugerido em forma de desafio dentro da comunidade no discord [Codelândia](https://discord.com/invite/QevDJqCzaY).
+Esse projeto foi criado na intenção de apresentar melhor o meu trabalho por meio de um portifolio pessoal. Acesse-o agora mesmo [cliquando aqui]!(https://christianwagner.tech).
 
-Acesse todos os desafios da Codelandia clicando [aqui](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?node-id=624%3A2).
+
 
 
 <div id="tecnologias"></div>
@@ -33,7 +33,7 @@ Acesse todos os desafios da Codelandia clicando [aqui](https://www.figma.com/fil
 <h2>💻 Tecnologias utilizadas 💻</h2>
 
 <div align="center">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/html-original.svg" width="100px" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="100px" />
 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="100px" />
 </div> </br></br>
